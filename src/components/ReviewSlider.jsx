@@ -1,0 +1,1 @@
+export default function ReviewSlider(){return <section className="reviews"><h2>CUSTOMERS FEEDBACK</h2><div className="reviewrow"><div>“The product quality is amazing and delivery was quick.”<b>— Happy Customer</b></div><div>“Pure and premium wellness products.”<b>— Verified Buyer</b></div><div>“I loved the sea buckthorn juice.”<b>— Customer</b></div></div></section>}

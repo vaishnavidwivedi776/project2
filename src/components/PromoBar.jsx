@@ -1,0 +1,1 @@
+export default function PromoBar(){return <div className="promo">Save Min 50% on all orders and get free shipping</div>}
